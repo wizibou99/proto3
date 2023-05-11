@@ -1,0 +1,85 @@
+*{
+    overflow-x: hidden;
+}
+body{
+    background-image: url(images/fruit.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.buss{
+    font-size: 75px;
+    font-weight: 100;
+    margin-top: -20px;
+}
+.navbar{
+    background: #490909;
+    min-height: 130px;
+}
+.nav-link{
+    font-size: 20px;
+    font-weight: 700;
+}
+ul{
+    gap: 50px;
+}
+.card-body{
+    background: #F6E1C5;
+    width: 480px;
+    height: 400px;
+    position: absolute;
+    top: 450px;
+    left: 200px;
+    border-radius: 10px;
+}
+.btn{
+    width: 150px;
+    height: 65px;
+    position: absolute;
+    margin-top: 530px;
+    margin-left: 340px;
+    background: #7B261A;
+
+}
+.bandes{
+    height: 200px;
+}
+.bandess{
+    background: #A5342BB0;
+    min-width: 100%;
+    height: 600px;
+}
+.rect1{
+    margin: auto;
+    margin-top: 50px;
+    border-radius: 10px;
+    width: 60%;
+    border: 1px solid wheat;
+    height: 500px;
+}
+.rect2{
+    width: 95%;
+    height: 450px;
+    margin: auto;
+    margin-top: 25px;
+    border: 1px solid wheat;
+    background: #F6E1C5;
+
+}
+.to{
+    letter-spacing: 5px;
+    font-size: 50px;
+    font-weight: 100;
+}
+.sous{
+    width: 400px;
+    margin: auto;
+    font-size: 20px;
+}
+.bonde{
+    background: #311919;
+    height: 200px;
+    text-align: center;
+    line-height: 200px;
+    overflow-y: hidden;
+}

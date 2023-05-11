@@ -1,0 +1,33 @@
+@media screen and (max-width: 900px){
+    .haut{
+        display: none;
+    }
+    .ima{
+        width: 100%;
+        position: relative;
+        margin-top: 750px;
+    }
+    .card-body{
+        max-width: 390px;
+        margin-left: -199px;
+    }
+    .btn{
+        left: -210px;
+        bottom: 10px;
+    }
+    .nav-item{
+        margin-left: 10px;
+    }
+    .bandess{
+        margin-top: -200px;
+    }
+    .rect1{
+        min-width: 100%;
+    }
+    .rect2{
+        min-width: 100%;
+    }
+    
+    
+    
+}
