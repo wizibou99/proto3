@@ -8,12 +8,13 @@
         margin-top: 750px;
     }
     .card-body{
-        max-width: 390px;
-        margin-left: -199px;
+        min-width: 95%;
+        margin-left: -190px;
     }
     .btn{
         left: -210px;
         top: 250px;
+        display: none;
     }
     .nav-item{
         margin-left: 10px;
